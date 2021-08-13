@@ -1,0 +1,9 @@
+C:\Users\User\RiderProjects\DirectoryToJSON\DirectoryToJSON\bin\Debug\DirectoryToJSON.exe
+C:\Users\User\RiderProjects\DirectoryToJSON\DirectoryToJSON\bin\Debug\DirectoryToJSON.pdb
+C:\Users\User\RiderProjects\DirectoryToJSON\DirectoryToJSON\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\RiderProjects\DirectoryToJSON\DirectoryToJSON\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\RiderProjects\DirectoryToJSON\DirectoryToJSON\obj\Debug\DirectoryToJSON.csprojAssemblyReference.cache
+C:\Users\User\RiderProjects\DirectoryToJSON\DirectoryToJSON\obj\Debug\DirectoryToJSON.csproj.CoreCompileInputs.cache
+C:\Users\User\RiderProjects\DirectoryToJSON\DirectoryToJSON\obj\Debug\DirectoryToJSON.csproj.CopyComplete
+C:\Users\User\RiderProjects\DirectoryToJSON\DirectoryToJSON\obj\Debug\DirectoryToJSON.exe
+C:\Users\User\RiderProjects\DirectoryToJSON\DirectoryToJSON\obj\Debug\DirectoryToJSON.pdb
